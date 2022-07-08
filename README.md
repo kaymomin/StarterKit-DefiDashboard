@@ -10,5 +10,7 @@ Thanks [JoshCS](https://github.com/jcstein/rainbowkit-vite-tailwind-starter) for
 
 `npm run dev` or `yarn dev`
 
+## Demo 
 
+StarterKit Live: [Here!](https://defidashboard-starterkit.vercel.app/)
 
