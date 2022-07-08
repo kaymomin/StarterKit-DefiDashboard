@@ -1,4 +1,6 @@
-# 🌈 Welcome to the Vite + React + Tailwind CSS + RainbowKit Starter!
+# 🌈 Welcome to the Vite + React + Tailwind CSS + RainbowKit Starter - For DefiDashboard 
+
+Thanks [JoshCS](https://github.com/jcstein/rainbowkit-vite-tailwind-starter) for the template! 
 
 ## To install dependencies
 
@@ -8,14 +10,5 @@
 
 `npm run dev` or `yarn dev`
 
-## To deploy to Vercel
 
-Download the [Vercel CLI](https://vercel.com/docs/cli) and run `vercel` from the root directory of this repository
 
-You can also link your GitHub repository on [Vercel's site](https://vercel.com)
-
-### 🟢 A live version of the deployment is available [here](https://rainbowkit.me/)
-
-## To deploy to [Fleek](https://fleek.co/) on IPFS
-
-☝️ Coming soon
