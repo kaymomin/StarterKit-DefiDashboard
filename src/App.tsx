@@ -1,20 +1,21 @@
 import { ConnectButton } from "@rainbow-me/rainbowkit";
-import { BsGithub, BsTwitter } from "react-icons/bs";
 
 function App() {
   return (
-    <div className="bg-zinc-900 flex justify-center items-center h-screen text-white w-screen">
-      <div>
-        <div className="flex justify-center text-sm sm:text-base md:text-3xl lg:text-4xl pb-10">
-          DefiDashboard 🪙 What's in your Wallet?
-        </div>
-        <div className="flex justify-center">
-          <ConnectButton />
-        </div>
-        <div className="flex justify-center pt-10">
-        </div>
-      </div>
+    <div className="flex flex-col items-center py-8">
+
+    <h1 className="flex justify-center text-sm sm:text-base md:text-3xl lg:text-4xl pb-10">
+      DefiDashboard 🪙 What's in your Wallet?
+    </h1>
+    
+    <div className="flex justify-center">
+      <ConnectButton showBalance={false}/>
     </div>
+    <div className="flex gap-6 mt-8">
+    <div className='flex flex-col'>
+      </div>
+      </div>
+      </div>
   );
 }
 
